@@ -1,1 +1,1 @@
-BASE_URL = 'https://en.doctena.de'
+BASE_URL = 'http://example_url.com'
